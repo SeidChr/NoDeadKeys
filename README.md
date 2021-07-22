@@ -4,7 +4,11 @@ https://superuser.com/a/280032
 
 - Check the Releases page for the installer: https://github.com/SeidChr/NoDeadKeys/releases
 - you may want to unblock the extracted files, so windows doesnt complain about installing
--- powershell (core): ´gci . -recurse | unblock-file´
+
+with powershell 6+ in your extracted zip folder:
+```ps
+  gci . -recurse | unblock-file
+```
 
 OR if you do not want to trust the installer, create one yourself:
 
