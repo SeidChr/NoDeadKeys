@@ -2,6 +2,10 @@
 Keyboard Layout without Dead Keys (avoid typing ^ twice)
 https://superuser.com/a/280032
 
+- Check the Releases page for the installer: https://github.com/SeidChr/NoDeadKeys/releases
+
+OR
+
 - Install the Dotnet Framework 3.5 from you 'Windows Features'
 - Find the Keyboard Layout Creator Tool here: https://www.microsoft.com/en-us/download/details.aspx?id=102134
 - Load the .klc file
