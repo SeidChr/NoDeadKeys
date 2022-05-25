@@ -1,3 +1,7 @@
+# Disclaimer
+I use this personally on any new system. This repos is pretty much only here so i can easily access the files. 
+Feel free not to trust the installers posted in release, and build them yourself. 
+
 # NoDeadKeys
 Keyboard Layout without Dead Keys (avoid typing ^ twice)
 https://superuser.com/a/280032
